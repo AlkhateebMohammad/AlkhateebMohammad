@@ -10,6 +10,9 @@ I am a passionate Full Stack Developer specializing in JavaScript technologies, 
 <a href="https://www.linkedin.com/in/mohammed-al-khateeb-95009b1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
+<a href="https://www.linkedin.com/in/mohammed-al-khateeb-95009b1b5/">
+    <img src="https://camo.githubusercontent.com/0087e4d96b5510787161df3843b869025dd63c38f0df1d3a1811b363fe08c054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="gima">
+</a>
 </br>
     <img src="https://github.com/Gapur/Gapur/raw/main/assets/coding.gif?raw=true" alt="com">
 
@@ -46,8 +49,7 @@ I am a passionate Full Stack Developer specializing in JavaScript technologies, 
 <h1>🖥️ Workspace Setup</h1>
 </br>
 <img src="https://camo.githubusercontent.com/a03b7b7316cc92cafab411eb4f636da6db544292c87243b95a92e6700d2fc7c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77735f31302d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="windows"/>
-<img src="https://camo.githubusercontent.com/c91033c03586ef7bb1d59c3dd3466a372fceba326c1a1c93e8acebdc230e21f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="vs"
-/>
+<img src="https://camo.githubusercontent.com/c91033c03586ef7bb1d59c3dd3466a372fceba326c1a1c93e8acebdc230e21f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="vs"/>
 
 
 
