@@ -24,7 +24,7 @@ I am a passionate Full Stack Developer specializing in JavaScript technologies, 
 - 👯 I’m looking to collaborate on open-source projects that utilize modern JavaScript frameworks for both frontend and backend development.
 - 💬 Ask me about best practices in full-stack development, from designing RESTful APIs to deploying scalable applications.
 - 📫 How to reach me: You can reach me via email at mohammed.m.alkhateeb@gmail.com or connect with me on Linkedin.
-- </br>
+ </br>
 
 <h1>Languages</h1>
 </br>
