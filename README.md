@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there,Iam mohammed 👋
+
+I am a passionate Full Stack Developer specializing in JavaScript technologies, particularly React.js and Node.js. With a solid background in web development, I thrive in creating dynamic and responsive web applications. My expertise includes crafting elegant user interfaces using React.js and building robust backend systems with Node.js
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/AlkhateebMohammad
+/)](https://www.linkedin.com/in/AlkhateebMohammad
+/)
 
 <!--
 **AlkhateebMohammad/AlkhateebMohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 ’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
