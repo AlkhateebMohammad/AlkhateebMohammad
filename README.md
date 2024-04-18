@@ -10,6 +10,8 @@ I am a passionate Full Stack Developer specializing in JavaScript technologies, 
 <a href="https://www.linkedin.com/in/mohammed-al-khateeb-95009b1b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
+</br>
+    <img src="https://github.com/Gapur/Gapur/raw/main/assets/coding.gif?raw=true" alt="com">
 
 
 
